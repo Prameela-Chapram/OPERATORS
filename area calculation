@@ -1,0 +1,9 @@
+#https://unikode.unikaksha.com/mod/vpl/view.php?id=1370&forceview=1#:~:text=Sheela%20has%20three%20things%20in%20her%20bag.%20She%20wants%20to%20compute%20the%20area%20of%203%20things%20but%203%20things%20are%20in%20different%20shapes.%20The%20three%20things%20are%20in%20square%20shape%2C%20rectangular%20shape%2C%20and%20circular%20shape%20respectively.%20Write%20a%20program%20to%20help%20Sheela%20to%20calculate%20the%20area%20of%20different%20shapes.%C2%A0
+a=int(input())
+l=int(input())
+b=int(input())
+r=float(input())
+print(a**2)
+print(l*b)
+area=3.14*r*r
+print(round(area,2))
